@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script type="text/javascript" id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+        </script>
         <!-- Other imports... -->
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/aaaakshat/cm-web-fonts@latest/fonts.css">
         <style>
@@ -8,7 +12,19 @@
         font-family: "Palatino Linotype", Arial, sans-serif;
         color: #333333;
     }
-        </style>
+
+    div {
+    min-width: 500px;
+    width:auto;
+    min-height:0px;
+    height:auto;
+    background-color: #f2f2f2;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    padding-left: 20px;
+    }
+    
+    </style>
       </head>
 <body>
 <h1>Yu Shao Hong</h1>
@@ -22,13 +38,7 @@
 <p id="footnote-5">[5] J.Bransford, R. Sherwood, N. Vye, and J. Rieser (1986), Teaching Thinking and Problem Solving, American Psychologist, October issue.</p>
 <hr>
 <h2>Self-Studying</h2>
-<!-- Note:
-<ul>
-    <li>For latex PDFs below,</li>
-    <ul>
-        <li>If </li>
-    </ul>
-</ul> -->
+Unnumbered exercises/questions/etc in the latex PDFs below are ones that I thought of myself.
 <ol>
     <li>Calculus by Michael Spivak</li>
     <a href="https://grassglass.github.io/Self-Study-PDFs/Spivak's-Calculus.pdf">Chapters 1-2 (latex)</a><br>
@@ -50,3 +60,12 @@
 O/A-Levels <a href="https://github.com/GrassGlass/A-Levels">(latex source code)</a> [Copyright License: GPL-3.0]
 </body>
 </html>
+<hr>
+<h2>Blog?</h2>
+<h3>(2/3/24) An interesting question I thought of yesterday</h3>
+<p>(An extension of exercise 25 from chapter 5 of Friedberg)</p>
+<div>
+    <p>Let \(\mathbb{F}\) be a field of cardinality \(\kappa\), and \(\mu\) a cardinal. Then, how many distinct characteristic polynomials of \(\mathcal{F}(\mu,\mathbb{F})\) (consisting of '\(\mu\)-tuples') are there?</p>
+    
+    </div>
+<p>Currently working on the finitary case first.</p>
