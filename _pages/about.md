@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
+# <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Singapore</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello there. I just graduated (as of 3/12/2024) from Junior College. I'm interested in math and have self-studied a little: introductory set theory, linear algebra, and real analysis. I hoped that I could finish Friedberg and baby Rudin (up to sequences of functions) by the end of the year, but that seems unlikely. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+It would be nice to self-study more topics — multivariable analysis, measure theory, and algebra up to at least groups, rings, and fields — before university starts. I might hence be able to take on 'more advanced' classes from the get-go, which would bring me closer to my goal: to learn about as many subfields of math as I can, each with nontrivial depth (for an undergradate student). From AT, AG, DT, DG, FA, CA, SCV to set theory, model theory, and so much more, I wish to learn more about them (eventually). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I never really had a natural talent for math and progress is always slow for me. Instead, I just have had a slight amount of persistence and acceptence that math takes time to learn. That's also why I like self-studying: there is no time pressure. When university comes, I hope that I will be able to continue enjoying math and play around with it.
