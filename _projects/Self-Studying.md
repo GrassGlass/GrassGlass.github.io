@@ -8,7 +8,7 @@ category: fun
 related_publications: false
 ---
 
-All my self-studying works. Click on any blue hyperlink to open the corresponding PDF in a new tab. 
+All my self-studying works. Click on any blue hyperlink to open the corresponding PDF in a new tab. Last updated: 7/12/24.
 
 <table class="table">
   <thead>

@@ -8,4 +8,4 @@ category: work
 giscus_comments: false
 ---
 
-See my <a href="https://github.com/GrassGlass/A-Levels" target="_blank">GitHub repository</a>
+See my <a href="https://github.com/GrassGlass/A-Levels" target="_blank">GitHub repository</a>.
