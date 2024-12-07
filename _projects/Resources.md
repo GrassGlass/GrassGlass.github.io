@@ -31,7 +31,7 @@ Some legally free resources:
 - <a href="https://kconrad.math.uconn.edu/blurbs/" target="_blank">Keith Conrad</a> (LA, Algebra, ENT, ANT, Analysis, Topology)
 - <a href="https://sites.math.washington.edu/~folland/Homepage/index.html" target="_blank">Gerald B. Folland</a> (MVA)
 - <a href="https://math.stanford.edu/~vakil/216blog/" target="_blank">Ravi Vakil's The Rising Sea</a> (AG)
-- <a href="https://www-fourier.ujf-grenoble.fr/~demailly/documents.html" target="_blank">Jean-Pierre Demailly</a> (Complex analytic and differential geometry, Potential theory, Hodge theory, AG)
+- <a href="https://www-fourier.ujf-grenoble.fr/~demailly/documents.html" target="_blank">Jean-Pierre Demailly</a> (Complex Analytic and Differential Geometry, Potential theory, Hodge theory, AG)
 - <a href="https://www.jmilne.org/math/index.html" target="_blank">J.S. Milne</a> (Algebra, Lie Algebra, AG, ANT, Etale Cohomology, Hodge Cycles, Motives, Shimura Varieties, Elliptic Curves)
 - <a href="https://sites.math.rutgers.edu/~weibel/" target="_blank">Charles Weibel</a> (Motivic Cohomology, K-Theory)
 - <a href="https://sites.google.com/view/student-set-theory-seminar/home" target="_blank">Student Set Theory and Combinatorics Seminar</a>
@@ -44,3 +44,8 @@ Some legally free resources:
 - <a href="https://math.stackexchange.com/" target="_blank">Mathematics Stack Exchange</a>
 - <a href="https://mathoverflow.net/" target="_blank">MathOverflow</a>
 - <a href="https://discord.gg/math" target="_blank">Mathcord</a> (Discord)
+- YouTube 
+    - <a href="https://www.youtube.com/@richarde.borcherds7998/playlists" target="_blank">Richard E Borcherds</a> (Intro NT, Complex Analysis, Algebra, Categories, Lie Groups, Comm Alg, AG, AT, Rep Theory, Hom Alg, Modular Forms)
+    - <a href="https://www.youtube.com/@sheldonaxler5197" target="_blank">Sheldon Axler</a> (LADR Lectures)
+    - <a href="https://www.youtube.com/@TimothyGowers0/videos" target="_blank">Timothy Gowers</a>
+    - <a href="https://www.youtube.com/@atonmontalban" target="_blank">Antonio Montalban</a> (Set Theory and Logic)
