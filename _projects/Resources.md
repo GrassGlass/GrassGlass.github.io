@@ -19,11 +19,13 @@ Some legally free resources:
 - <a href="https://eqworld.ipmnet.ru/index.htm" target="_blank">EqWorld</a>
 - <a href="https://www.merlot.org/merlot/materials.htm?categoryBasic=2513" target="_blank">Merlot</a> (Multimedia Education Resource for Learning and Online Teaching)
 - <a href="https://www.math.buffalo.edu/mad/special/FREEMathWebJournals1.html" target="_blank">Free Mathematics Web Journals</a>
-- <a href="https://terrytao.wordpress.com/" target="_blank">Terence Tao</a> 
 - <a href="https://dec41.user.srcf.net/" target="_blank">Dexter Chua</a> 
 - <a href="https://web.stanford.edu/~lindrew/notes.html" target="_blank">Andrew Lin</a>
 - <a href="https://angyansheng.github.io/notes/" target="_blank">Ang Yan Sheng</a> (ANT, Comm Alg, MT, SCV)
+- <a href="https://clementyung.github.io/resources/" target="_blank">Clement Yung</a> (Jech solutions)
+- <a href="https://terrytao.wordpress.com/" target="_blank">Terence Tao</a> 
 - <a href="https://axler.net/" target="_blank">Sheldon Axler</a> (LADR, MT)
+- <a href="https://smashmath.github.io/" target="_blank">Eigentaylor</a> (LA)
 - <a href="https://www.math.brown.edu/streil/papers/LADW/LADW.html" target="_blank">Sergei Treil</a> (LADW)
 - <a href="https://juliapoo.github.io/Cayley-Graph-Plotting/" target="_blank">Cayley Graph Plotting</a>
 - <a href="http://ramanujan.math.trinity.edu/wtrench/misc/index.shtml" target="_blank">William F. Trench</a> (Intro RA)
@@ -36,7 +38,6 @@ Some legally free resources:
 - <a href="https://sites.math.rutgers.edu/~weibel/" target="_blank">Charles Weibel</a> (Motivic Cohomology, K-Theory)
 - <a href="https://sites.google.com/view/student-set-theory-seminar/home" target="_blank">Student Set Theory and Combinatorics Seminar</a>
 - <a href="https://github.com/mattearnshaw/lawvere" target="_blank">F. W. Lawvere</a>
-- <a href="https://clementyung.github.io/resources/" target="_blank">Clement Yung</a> (Jech solutions)
 - <a href="https://jonathanlove.info/qual/" target="_blank">Make Me A Qual</a>
 - <a href="https://drive.google.com/drive/folders/1V6RwKA4sHFAfqiyIKJ45m8sNJOGVIapg" target="_blank">Stanford  Past and Practice Qualifying Exams</a>
 - <a href="https://www.library.wisc.edu/amp/services/course-reserves-exams/" target="_blank">UW-Madison Qualifying Exams</a>
@@ -49,3 +50,5 @@ Some legally free resources:
     - <a href="https://www.youtube.com/@sheldonaxler5197" target="_blank">Sheldon Axler</a> (LADR Lectures)
     - <a href="https://www.youtube.com/@TimothyGowers0/videos" target="_blank">Timothy Gowers</a>
     - <a href="https://www.youtube.com/@atonmontalban" target="_blank">Antonio Montalban</a> (Set Theory and Logic)
+    - <a href="https://www.youtube.com/@mathcord-lectures/videos" target="_blank">Mathcord Lectures</a> (Logic)
+    - <a href="https://www.youtube.com/@jamessh9294/videos" target="_blank">James ash</a> (FA, MT)
