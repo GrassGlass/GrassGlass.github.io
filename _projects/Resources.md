@@ -9,7 +9,7 @@ related_publications: false
 ---
 
 Some legally free resources:
-- Non-individual
+- Organisation
     - <a href="https://www.ams.org/open-math-notes" target="_blank">AMS Open Math Notes</a>
     - <a href="https://ocw.mit.edu/" target="_blank">MIT OpenCourseWare</a>
     - <a href="https://www.isibang.ac.in/~adean/infsys/database/" target="_blank">ISI Open Course Ware</a> 
