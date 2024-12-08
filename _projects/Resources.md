@@ -17,6 +17,7 @@ Some legally free resources:
     - <a href="https://onlinebooks.library.upenn.edu/" target="_blank">UPenn Online Books Page</a>
     - <a href="https://tbp.studentorg.berkeley.edu/courses/" target="_blank">Tau Beta Pi</a> (UCB Exam and Syllabus Database)
     - <a href="https://topology.pi-base.org/" target="_blank">$$\pi$$-Base</a>
+    - <a href="https://www.mathcounterexamples.net/" target="_blank">Math Counterexamples</a>
     - <a href="https://eqworld.ipmnet.ru/index.htm" target="_blank">EqWorld</a>
     - <a href="https://www.merlot.org/merlot/materials.htm?categoryBasic=2513" target="_blank">Merlot</a> (Multimedia Education Resource for Learning and Online Teaching)
     - <a href="https://www.math.buffalo.edu/mad/special/FREEMathWebJournals1.html" target="_blank">Free Mathematics Web Journals</a>
@@ -35,6 +36,7 @@ Some legally free resources:
     - <a href="http://ramanujan.math.trinity.edu/wtrench/misc/index.shtml" target="_blank">William F. Trench</a> (Intro RA)
     -  <a href="https://mtaylor.web.unc.edu/" target="_blank">Michael Taylor</a> (Intro RA, intro CA, MVA, DG, PDEs, etc)
     - <a href="https://kconrad.math.uconn.edu/blurbs/" target="_blank">Keith Conrad</a> (LA, Algebra, ENT, ANT, Analysis, Topology)
+    <a href="https://ctrl-c.club/~ivan/327/" target="_blank">Ivan Khatchatourian</a> (Topology)
     - <a href="https://sites.math.washington.edu/~folland/Homepage/index.html" target="_blank">Gerald B. Folland</a> (MVA)
     - <a href="https://math.stanford.edu/~vakil/216blog/" target="_blank">Ravi Vakil's The Rising Sea</a> (AG)
     - <a href="https://www-fourier.ujf-grenoble.fr/~demailly/documents.html" target="_blank">Jean-Pierre Demailly</a> (Complex Analytic and Differential Geometry, Potential theory, Hodge theory, AG)
@@ -57,3 +59,4 @@ Some legally free resources:
     - <a href="https://www.youtube.com/@atonmontalban" target="_blank">Antonio Montalban</a> (Set Theory and Logic)
     - <a href="https://www.youtube.com/@mathcord-lectures/videos" target="_blank">Mathcord Lectures</a> (Logic)
     - <a href="https://www.youtube.com/@jamessh9294/videos" target="_blank">James ash</a> (FA, MT)
+    <!-- <a href="" target="_blank"></a>  -->
