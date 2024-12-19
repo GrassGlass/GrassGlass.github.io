@@ -23,7 +23,7 @@ All my self-studying works. Click on any blue hyperlink to open the correspondin
     <tr>
       <th scope="row">Calculus</th>
       <td>Michael Spivak</td>
-      <td><a href="https://grassglass.github.io/assets/pdf/Self-Study-PDFs/Spivak's-Calculus.pdf" target="_blank">1-2</a></td>
+      <td><a href="https://grassglass.github.io/assets/pdf/Self-Study-PDFs/Spivak's-Calculus.pdf" target="_blank">1–2</a></td>
       <td>Y</td>
     </tr>
     <tr>
