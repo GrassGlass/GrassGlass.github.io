@@ -44,6 +44,8 @@ Some legally free resources:
     - <a href="https://www.jmilne.org/math/index.html" target="_blank">J.S. Milne</a> (Algebra, Lie Algebra, AG, ANT, Etale Cohomology, Hodge Cycles, Motives, Shimura Varieties, Elliptic Curves)
     - <a href="https://sites.math.rutgers.edu/~weibel/" target="_blank">Charles Weibel</a> (Motivic Cohomology, K-Theory)
     - <a href="https://github.com/mattearnshaw/lawvere" target="_blank">F. W. Lawvere</a>
+    - <a href="https://research-repository.st-andrews.ac.uk/handle/10023/12643" target="_blank">T. S. Blyth</a> (Module Theory: An approach to linear algebra)
+    - <a href="https://people.math.ethz.ch/~salamon/" target="_blank">Dietmar A. Salamon</a> (Measure theory, FA, DT, DG)
 - Qualifying Exams
     - <a href="https://jonathanlove.info/qual/" target="_blank">Make Me A Qual</a>
     - <a href="https://drive.google.com/drive/folders/1V6RwKA4sHFAfqiyIKJ45m8sNJOGVIapg" target="_blank">Stanford  Past and Practice Qualifying Exams</a>
