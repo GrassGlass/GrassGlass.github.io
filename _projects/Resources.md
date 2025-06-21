@@ -15,7 +15,9 @@ Some legally free resources:
   - <a href="https://ocw.mit.edu/" target="_blank">MIT OpenCourseWare</a>
   - <a href="https://www.isibang.ac.in/~adean/infsys/database/" target="_blank">ISI Open Course Ware</a>
   - <a href="https://textbooks.aimath.org/textbooks/approved-textbooks/" target="_blank">American Institute of Mathematics Open Textbook Initative</a>
+  - <a href="https://link.springer.com/search?new-search=true&query=&content-type=textbook&openAccess=true&dateFrom=&dateTo=&facet-discipline=%22Mathematics%22&sortBy=oldestFirst" target="_blank">Springer Open Access</a>
   - <a href="https://onlinebooks.library.upenn.edu/" target="_blank">UPenn Online Books Page</a>
+  - <a href="https://open.umn.edu/opentextbooks/subjects/mathematics" target="_blank">Open Textbook Library</a>
   - <a href="https://tbp.studentorg.berkeley.edu/courses/" target="_blank">Tau Beta Pi</a> (UCB Exam and Syllabus Database)
   - <a href="https://topology.pi-base.org/" target="_blank">$$\pi$$-Base</a>
   - <a href="https://www.mathcounterexamples.net/" target="_blank">Math Counterexamples</a>
@@ -38,6 +40,7 @@ Some legally free resources:
   - <a href="http://ramanujan.math.trinity.edu/wtrench/misc/index.shtml" target="_blank">William F. Trench</a> (Intro RA)
   - <a href="https://mtaylor.web.unc.edu/" target="_blank">Michael Taylor</a> (Intro RA, intro CA, MVA, DG, PDEs, etc)
   - <a href="https://kconrad.math.uconn.edu/blurbs/" target="_blank">Keith Conrad</a> (LA, Algebra, ENT, ANT, Analysis, Topology)
+  - <a href="https://judsonbooks.org/" target="_blank"><Thomas W. Judson></a> (Algebra, ODEs)
   - <a href="https://ctrl-c.club/~ivan/327/" target="_blank">Ivan Khatchatourian</a> (Topology)
   - (Website down as of 27/4/25) Gerald B. Folland (MVA)
   - <a href="https://math.stanford.edu/~vakil/216blog/" target="_blank">Ravi Vakil's The Rising Sea</a> (AG)
