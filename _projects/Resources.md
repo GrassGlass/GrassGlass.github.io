@@ -42,7 +42,7 @@ Some legally free resources:
   - <a href="https://kconrad.math.uconn.edu/blurbs/" target="_blank">Keith Conrad</a> (LA, Algebra, ENT, ANT, Analysis, Topology)
   - <a href="https://judsonbooks.org/" target="_blank"><Thomas W. Judson></a> (Algebra, ODEs)
   - <a href="https://ctrl-c.club/~ivan/327/" target="_blank">Ivan Khatchatourian</a> (Topology)
-  - (Website down as of 27/4/25) Gerald B. Folland (MVA)
+  - <a href="https://sites.math.washington.edu//~folland/index.html"> Gerald B. Folland</a> (MVA)
   - <a href="https://math.stanford.edu/~vakil/216blog/" target="_blank">Ravi Vakil's The Rising Sea</a> (AG)
   - <a href="https://www-fourier.ujf-grenoble.fr/~demailly/documents.html" target="_blank">Jean-Pierre Demailly</a> (Complex Analytic and Differential Geometry, Potential theory, Hodge theory, AG)
   - <a href="https://www.jmilne.org/math/index.html" target="_blank">J.S. Milne</a> (Algebra, Lie Algebra, AG, ANT, Etale Cohomology, Hodge Cycles, Motives, Shimura Varieties, Elliptic Curves)
